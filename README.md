@@ -1,3 +1,3 @@
 # snake-game
 
-in python
+in pythonnn
